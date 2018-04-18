@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9130FF17208790660085A531 /* m4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9130FF13208790650085A531 /* m4.jpg */; };
+		9130FF18208790660085A531 /* m3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9130FF14208790650085A531 /* m3.jpg */; };
+		9130FF19208790660085A531 /* m1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9130FF15208790660085A531 /* m1.jpg */; };
+		9130FF1A208790660085A531 /* m2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9130FF16208790660085A531 /* m2.jpg */; };
 		9183A3D8207E356400691182 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9183A3D7207E356400691182 /* AppDelegate.swift */; };
 		9183A3DA207E356400691182 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9183A3D9207E356400691182 /* ViewController.swift */; };
 		9183A3DD207E356400691182 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9183A3DB207E356400691182 /* Main.storyboard */; };
@@ -15,14 +19,14 @@
 		9183A3EA207E3AAE00691182 /* MovieDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9183A3E9207E3AAE00691182 /* MovieDetailViewController.swift */; };
 		9183A3EC207E3C5B00691182 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9183A3EB207E3C5B00691182 /* Movie.swift */; };
 		9183A3EE207E40C700691182 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9183A3ED207E40C700691182 /* TableViewController.swift */; };
-		9183A3F0207E418500691182 /* m1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9183A3EF207E418500691182 /* m1.jpg */; };
 		9183A3F2207E4B1D00691182 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9183A3F1207E4B1D00691182 /* TableViewCell.swift */; };
-		9183A3F4207E507000691182 /* m2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9183A3F3207E507000691182 /* m2.jpeg */; };
-		9183A3F6207E50E400691182 /* m3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9183A3F5207E50E400691182 /* m3.jpg */; };
-		9183A3F8207E514300691182 /* m4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9183A3F7207E514300691182 /* m4.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9130FF13208790650085A531 /* m4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = m4.jpg; sourceTree = "<group>"; };
+		9130FF14208790650085A531 /* m3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = m3.jpg; sourceTree = "<group>"; };
+		9130FF15208790660085A531 /* m1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = m1.jpg; sourceTree = "<group>"; };
+		9130FF16208790660085A531 /* m2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = m2.jpg; sourceTree = "<group>"; };
 		9183A3D4207E356400691182 /* Top 5 Movies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Top 5 Movies.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9183A3D7207E356400691182 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9183A3D9207E356400691182 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -33,11 +37,7 @@
 		9183A3E9207E3AAE00691182 /* MovieDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailViewController.swift; sourceTree = "<group>"; };
 		9183A3EB207E3C5B00691182 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		9183A3ED207E40C700691182 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
-		9183A3EF207E418500691182 /* m1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = m1.jpg; path = ../../m1.jpg; sourceTree = "<group>"; };
 		9183A3F1207E4B1D00691182 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
-		9183A3F3207E507000691182 /* m2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = m2.jpeg; path = ../../m2.jpeg; sourceTree = "<group>"; };
-		9183A3F5207E50E400691182 /* m3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = m3.jpg; path = ../../m3.jpg; sourceTree = "<group>"; };
-		9183A3F7207E514300691182 /* m4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = m4.jpeg; path = ../../m4.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +54,10 @@
 		9183A3CB207E356400691182 = {
 			isa = PBXGroup;
 			children = (
+				9130FF15208790660085A531 /* m1.jpg */,
+				9130FF16208790660085A531 /* m2.jpg */,
+				9130FF14208790650085A531 /* m3.jpg */,
+				9130FF13208790650085A531 /* m4.jpg */,
 				9183A3ED207E40C700691182 /* TableViewController.swift */,
 				9183A3D6207E356400691182 /* Top 5 Movies */,
 				9183A3D5207E356400691182 /* Products */,
@@ -79,10 +83,6 @@
 				9183A3E3207E356400691182 /* Info.plist */,
 				9183A3E9207E3AAE00691182 /* MovieDetailViewController.swift */,
 				9183A3EB207E3C5B00691182 /* Movie.swift */,
-				9183A3EF207E418500691182 /* m1.jpg */,
-				9183A3F3207E507000691182 /* m2.jpeg */,
-				9183A3F7207E514300691182 /* m4.jpeg */,
-				9183A3F5207E50E400691182 /* m3.jpg */,
 				9183A3F1207E4B1D00691182 /* TableViewCell.swift */,
 			);
 			path = "Top 5 Movies";
@@ -147,13 +147,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9130FF18208790660085A531 /* m3.jpg in Resources */,
 				9183A3E2207E356400691182 /* LaunchScreen.storyboard in Resources */,
-				9183A3F8207E514300691182 /* m4.jpeg in Resources */,
-				9183A3F6207E50E400691182 /* m3.jpg in Resources */,
 				9183A3DF207E356400691182 /* Assets.xcassets in Resources */,
-				9183A3F4207E507000691182 /* m2.jpeg in Resources */,
+				9130FF19208790660085A531 /* m1.jpg in Resources */,
+				9130FF17208790660085A531 /* m4.jpg in Resources */,
+				9130FF1A208790660085A531 /* m2.jpg in Resources */,
 				9183A3DD207E356400691182 /* Main.storyboard in Resources */,
-				9183A3F0207E418500691182 /* m1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -9,9 +9,9 @@
 import UIKit
 //Array of movies
 var movies = [Movie(title:"The Shawshank Redemption", releaseYear: 1994, directedBy: "Frank Darabont", runtime: 142, imageAddress: "m1.jpg"),
-Movie(title:"The GodFather", releaseYear: 1972, directedBy: "Francis Ford Coppola", runtime: 175, imageAddress: "m2.jpeg"),
+Movie(title:"The GodFather", releaseYear: 1972, directedBy: "Francis Ford Coppola", runtime: 175, imageAddress: "m2.jpg"),
 Movie(title:"The Godfather: Part: II", releaseYear: 1974, directedBy: "Francis Ford Coppola", runtime: 202, imageAddress: "m3.jpg"),
-Movie(title:"The Dark Knight", releaseYear: 2008, directedBy: "Christopher Nolan", runtime: 192, imageAddress: "m4.jpeg")]
+Movie(title:"The Dark Knight", releaseYear: 2008, directedBy: "Christopher Nolan", runtime: 192, imageAddress: "m4.jpg")]
 
 //Index Counter
 var myIndex=0
